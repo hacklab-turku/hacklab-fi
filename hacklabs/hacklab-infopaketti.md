@@ -1,7 +1,7 @@
 Löysitkö tästä virheen? Tiedot eivät ajan tasalla?
 Laita pull-requestia tai korjaa suoraan masteriin, kumpi vaan!
 
-Päivitetty 13.4.2016
+Päivitetty 16.12.2019
 
 Tämän voi tulostaa mukaan messuille, tapahtumiin ym. cheat sheetiksi, jos tulee kyselyjä asioista, joihin ei osaa vastata.
 
@@ -31,9 +31,10 @@ Tämän voi tulostaa mukaan messuille, tapahtumiin ym. cheat sheetiksi, jos tule
 * Kaupunginosa: Palosaari
 
 ###Jyväskylä Hacklab
-* Oma työtila
-* Katuosoite: Keskikatu 18A:n pommisuoja
-* Viikkotapaamiset tiistaisin klo 18 alkaen
+* Oma työtila vuodesta 2011 alkaen
+* Katuosoite: Emännäntie 10 O, pohjakerros
+* Viikkotapaamiset tiistaisin klo 18 ja lauantaisin klo 14 alkaen
+* Jäseniä 2019: 60+
 
 ###Tarlab (Oulu)
 * Yhdistys perustettu 2011, omat tilat
